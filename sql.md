@@ -1,10 +1,6 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
 SQL (Structured Query Language), veritabanları üzerinde işlem yapmak için kullanılan bir dildir. SQL, temel olarak DDL (Data Definition Language), DML (Data Manipulation Language) ve DQL (Data Query Language) olarak üç ana kategoriye ayrılır. Bu kategoriler, veritabanı nesnelerinin tanımlanması, verilerin manipüle edilmesi ve sorgulanması gibi farklı işlemleri içerir. Aşağıda bu konular hakkında detaylı bir eğitim dokümanı bulabilirsiniz.
 
 ---
-
-## SQL Eğitim Dokümanı
 
 ### 1. **DDL (Data Definition Language)**
 DDL, veritabanı nesnelerinin (tablolar, indeksler, view'lar vb.) oluşturulması, değiştirilmesi ve silinmesi için kullanılan SQL komutlarını içerir.
